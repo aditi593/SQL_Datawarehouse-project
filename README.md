@@ -172,5 +172,4 @@ data-warehouse-project/
 
 This project was built to apply core data engineering practices end to end: interviewing source systems, ingesting raw CSVs, cleansing and standardizing data, and modeling it into a business ready star schema. It pairs with the [SQL Data Analytics project](https://github.com/aditi593/SQL_Datawarehouse-project), which uses this warehouse's Gold layer as the base for exploratory and advanced analytics.
 
-Course reference: this project was built while following Baraa Khatib Salkini's free SQL course, *Data with Baraa*, on YouTube.# Data Warehouse and Analytics Project
-
+Course reference: this project was built while following Baraa Khatib Salkini's free SQL course, *Data with Baraa*, on YouTube.
