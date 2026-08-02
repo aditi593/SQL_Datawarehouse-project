@@ -20,11 +20,17 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 This project involves:
 
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
+   
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
-3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+   <img width="1839" height="1759" alt="ETL" src="https://github.com/user-attachments/assets/5ea6d941-54dd-4d95-80d2-1e9118dfee9a" />
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+   <img width="1500" height="667" alt="data_model" src="https://github.com/user-attachments/assets/c3c731e3-c9a3-4474-b173-bb6c222c39b8" />
+   
+4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+   <img width="1522" height="861" alt="data_integration" src="https://github.com/user-attachments/assets/f8626fbd-2bf1-4c30-a77c-3eecbcede9f6" />
+
+
 - SQL Development
 - Data Architect
 - Data Engineering  
