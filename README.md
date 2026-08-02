@@ -64,7 +64,6 @@ The Gold layer is modeled as a **Sales Data Mart** using a star schema, with one
 
 Each layer follows the same four step build process: analyze the source, code the load/transform logic, validate the results, and document and version the work in Git.
 
-![ETL Methods](docs/ETL.png)
 
 - **Extraction**: Pull vs push extraction, full vs incremental extraction, using techniques like database querying, file parsing, API calls, and CDC.
 - **Load**: Full load (truncate & insert, drop & recreate, or upsert) and incremental load (append, upsert, or merge), with Slowly Changing Dimension (SCD) strategies considered for historization.
